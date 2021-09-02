@@ -1,0 +1,6 @@
+name : Drupal Hacks
+description: Custom drupal development
+core: 8.x
+type: module
+core_version_requirement: ^8 || ^9
+package: Custom
