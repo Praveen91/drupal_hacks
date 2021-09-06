@@ -18,7 +18,6 @@ use Symfony\Component\DependencyInjection\ContainerInterface;
  * 
  */
 
-
 class LatestHackBlock extends BlockBase implements ContainerFactoryPluginInterface {
    
 /**

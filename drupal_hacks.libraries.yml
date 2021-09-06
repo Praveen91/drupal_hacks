@@ -1,0 +1,15 @@
+global:
+  version: 1.x
+  js:
+    js/global.js: {}
+  dependencies:
+    - core/drupal
+    - core/jquery
+    - core/drupal.dailog.ajax
+    
+    
+filter:
+  version: 1.x
+  css:
+    theme:
+      css/filter.css: {}
